@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tugas
 
 > Tugas 2
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vuetugas
+Ini Tugas PWD tentang Vuejs
+>>>>>>> 96443304ca7c8f2fb54d86e5f820ce0b35704fd4
