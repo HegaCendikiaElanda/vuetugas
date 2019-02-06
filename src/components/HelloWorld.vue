@@ -4,8 +4,7 @@
     <input type="text" v-model="nama">
     <br><br>
     Nilai Anda : {{ nilai }}
-    <br>
-    <button>Click Me</button>
+    <br>    
     <h2>{{ soal1 }}</h2>
     <input type="radio" name="jawaban1" :disabled="checked" @click="benar"> Ridwan Kamil
     <input type="radio" name="jawaban1" :disabled="checked"> Basuki Tjahaja Purnama
